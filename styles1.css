@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: #011F3F;
+    color: white;
+    margin: 50px;
+}
+
+p {
+    font-family: 'Genos', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.5rem;
+}
+
+.carousel-inner {
+    margin: 30px;
+    padding: 4% 10%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #FEF2BF;
+}
